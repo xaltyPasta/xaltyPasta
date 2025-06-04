@@ -1,5 +1,17 @@
-## 💫 About Me:
-#Hi 👋 I'm Raj Kumar Ravi<br>Software Engineer <br><br>Web development pulled me into the world of code, and I haven’t looked back since! From APIs to mobile apps, I love building things that solve real problems and make people go: “Whoa, that’s cool!” 🚀<br><br>🌍 I'm based in India<br>✉️ Reach me at rajkumarravi9470@gmail.com<br>🧠 Currently learning Java, advanced system design & scalable backend architecture<br>🤝 Open to collaborating on exciting projects or startups<br>⚡ I study CS, but honestly... Google & Stack Overflow are my best teammates 😄<br>🏆 4⭐ on CodeChef
+Hi 👋 I'm Raj Kumar Ravi
+========================
+
+Software Engineer 
+-----------------
+
+Web development pulled me into the world of code, and I haven’t looked back since! From APIs to mobile apps, I love building things that solve real problems and make people go: “Whoa, that’s cool!” 🚀
+
+* 🌍 I'm based in India 
+* ✉️ Reach me at [rajkumarravi9470@gmail.com](mailto:rajkumarravi9470@gmail.com)
+* 🧠 Currently learning Java, advanced system design & scalable backend architecture
+* 🤝 Open to collaborating on exciting projects or startups
+* ⚡ I study CS, but honestly... Google & Stack Overflow are my best teammates 😄
+* 🏆 4⭐ on CodeChef
 
 
 ## 🌐 Socials:
