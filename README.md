@@ -4,6 +4,11 @@ Hi 👋 I'm Raj Kumar Ravi
 Software Engineer 
 -----------------
 
+<p align="center">
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px">
+</p>
+
+
 Web development pulled me into the world of code, and I haven’t looked back since! From APIs to mobile apps, I love building things that solve real problems and make people go: “Whoa, that’s cool!” 🚀
 
 * 🌍 I'm based in India 
