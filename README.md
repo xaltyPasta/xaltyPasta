@@ -62,6 +62,12 @@ Web development pulled me into the world of code, and I haven’t looked back si
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36" alt="React Native" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Icon_2023.svg" width="36" height="36" alt="Android Studio" />
+  </a>
 </p>
 
 
