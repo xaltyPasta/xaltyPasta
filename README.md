@@ -1,4 +1,4 @@
-Hi 👋 I'm Raj Kumar Ravi
+Hi 👋 I'm Raj Kumar
 ========================
 
 Software Engineer 
