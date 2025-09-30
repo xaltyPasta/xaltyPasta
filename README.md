@@ -11,7 +11,7 @@ Software Engineer
 
 Web development pulled me into the world of code, and I haven’t looked back since! From APIs to mobile apps, I love building things that solve real problems and make people go: “Whoa, that’s cool!” 🚀
 
-* 🌍 I'm based in bangalore India 
+* 🌍 I'm based in Bangalore, India 
 * ✉️ Reach me at [rajkumarravi9470@gmail.com](mailto:rajkumarravi9470@gmail.com)
 * 🧠 Currently learning Java, advanced system design & scalable backend architecture
 * 🤝 Open to collaborating on exciting projects or startups
